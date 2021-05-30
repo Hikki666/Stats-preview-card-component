@@ -43,7 +43,7 @@ I'm certain that there's a better way of doing things (code wise), however this 
 
 I made sure that the website would be "responsive" and not "static", meaning the website will change based on the width of the user's device, that's being used to view the website.
 
-I tried to color the [stock_image](./images/image-header-desktop.jpg) with CSS, after multiple tries using different methods, to no avail, even though I got different results every time, I wasn't satisfied with any of them. So as a ~~cheat~~ *workaround*, I decided to throw the [stock_image](./images/image-header-desktop.jpg) to GIMP and use the "colorize" function to get the [modified_image](./images/image-header-desktop_GIMP.jpg) I was satisfied with.
+I tried to color the [stock_image](./images/image-header-desktop.jpg) with CSS, after multiple tries using different methods, to no avail, even though I got different results every time, I wasn't satisfied with any of them. So as a ~~cheat~~ *workaround*, I decided to throw the [stock_image](./images/image-header-desktop.jpg) to GIMP and use the "colorize" function to get the [modified_image]     (./images/image-header-desktop_GIMP.jpg) I was satisfied with.
 ### Built with
 
 - Semantic HTML5 markup
