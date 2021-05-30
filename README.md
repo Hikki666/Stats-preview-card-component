@@ -28,23 +28,19 @@ Users should be able to:
 
 ### Screenshot
 
-![](./fotky/tre.png)
+![](./images/screenshots/screenshot-desktop.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
+![](./images/screenshots/screenshot-mobile.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.youtube.com/watch?v=hHbWF1Bvgf4)
+- Live Site URL: [Add live site URL here](https://sklady.netlify.app)
 
 ## My process
-
+I started with HTML first, then added all the styling with CSS.
+I'm certain that there's a better way of doing things (code wise), however this is the best I can do right now.
+I made sure that the website would be "responsive" and not "static", meaning the website will change based on the width of the user's device, that's being used to view the website.
+I tried to color the image(image-header-desktop.jpg) with CSS, after multiple tries using different methods, to no avail, even thoug I got different results every time, I wasn't satisfied with any of them. So as a ~~cheat~~ workaround I decided to throw the image(image-header-desktop.jpg) 
 ### Built with
 
 - Semantic HTML5 markup
