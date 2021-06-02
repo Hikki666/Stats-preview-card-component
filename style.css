@@ -1,0 +1,184 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+body {
+	background-color: #090b1a;
+}
+
+.wrapper {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	border-radius: 15px;
+	background-color: #1b1938;
+}
+
+.img-info {
+	width: 100%;
+	text-align: center;
+}
+
+.img {
+	width: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 15px 15px 0px 0px;
+}
+
+.img-info h1 {
+	padding-top: 30px;
+	padding-bottom: 15px;
+	color: #ffffff;
+	font-family: Inter, sans-serif;
+}
+
+.insights {
+	color: #aa5cdb;
+}
+
+.line-height {
+	line-height: 25px;
+	padding-bottom: 30px;
+	color: #bfbfbf;
+	font-family: Lexend Deca, sans-serif;
+	font-weight: 400;
+}
+
+.split-metrics h2 {
+	color: #ffffff;
+	padding-bottom: 10px;
+	font-family: Inter, sans-serif;
+	font-weight: 700;
+}
+
+.split-metrics p {
+	padding-bottom: 30px;
+	color: #bfbfbf;
+	font-family: Lexend Deca, sans-serif;
+	font-weight: 400;
+	font-size: small;
+}
+
+
+.special {
+	display: none;
+}
+
+.desktop-h1 {
+	display: none;
+}
+
+@media only screen and (min-width: 768px) {
+	.wrapper {
+	width: 600px;
+	margin: 0 auto;
+	margin-top: 35px;
+	margin-bottom: 35px;
+	}
+	
+	.img-info h1 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 40px;
+	}
+	
+	.line-height {
+	line-height: 30px;
+	font-size: 23px;
+	}
+	
+	.split-metrics {
+	display: flex;
+	justify-content: center;
+	font-size: 20px;
+	}
+	
+	.center {
+	padding-left: 30px;
+	padding-right: 30px;
+	}
+	
+	.split-metrics p {
+	font-size: medium;
+	}
+}
+
+@media only screen and (min-width: 1000px) {
+	.wrapper {
+	margin: 0 auto;
+	margin-top: 250px;
+	width: 1088px;
+	height: 446px;
+	}
+	
+	.img-info {
+	width: 50%;
+	float: left;
+	}
+	
+	.img {
+	width: 50%;
+	float: right;
+	height: 100%;
+	border-radius: 0px 15px 15px 0px;
+	}
+	
+	.img-info h1 {
+	padding-top: 60px;
+	padding-left: 60px;
+	padding-bottom: 20px;
+	font-size: 40px;
+	text-align: left;
+	}
+	
+	.line-height {
+	display: none;
+	}
+	
+	.special {
+	display: block;
+	line-height: 25px;
+	font-size: 15px;
+	text-align: left;
+	padding-left: 60px;
+	color: #bfbfbf;
+	font-family: Lexend Deca, sans-serif;
+	font-weight: 400;
+	}
+	
+	.split-metrics {
+	padding-top: 70px;
+	justify-content: left;
+	}
+	
+	.center {
+	padding-left: 45px;
+	padding-right: 45px;
+	}
+	
+	.desktop-h1 {
+	display: block;
+	}
+	
+	.pc-none {
+	display: none;
+	}
+	
+	.left {
+	padding-left: 60px;
+	}
+	
+	.split-metrics h2 {
+	font-size: 25px;
+	text-align: left;
+	}
+	
+	.split-metrics p {
+	font-size: 15px;
+	}
+}
