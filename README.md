@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.youtube.com/watch?v=hHbWF1Bvgf4)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/tools-used-none-just-html-and-css-eGu3PHM1Y)
 - Live Site URL: [Live site](https://sklady.netlify.app)
 
 ## My process
