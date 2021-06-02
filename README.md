@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.youtube.com/watch?v=hHbWF1Bvgf4)
-- Live Site URL: [Add live site URL here](https://sklady.netlify.app)
+- Solution URL: [Solution](https://www.youtube.com/watch?v=hHbWF1Bvgf4)
+- Live Site URL: [Live site](https://sklady.netlify.app)
 
 ## My process
 
@@ -66,7 +66,7 @@ Like, literally everything. xD
 
 ### Useful resources
 
-- [Video](https://www.youtube.com/watch?v=ZYV6dYtz4HA&list=WL&index=1&t=630s) - This is in my opinion a great video for beginners, that want to learn the basics of responsive web design.
+- [Video](https://www.youtube.com/watch?v=ZYV6dYtz4HA&list=WL&index=1&t=0s) - This is in my opinion a great video for beginners, that want to learn the basics of responsive web design.
 
 ## Author
 
@@ -75,4 +75,4 @@ Like, literally everything. xD
 
 ## Acknowledgments
 
-The [Video](https://www.youtube.com/watch?v=ZYV6dYtz4HA&list=WL&index=1&t=630s), that was already mentioned ,was a great help. Definitely encourage you to check it out.
+The [Video](https://www.youtube.com/watch?v=ZYV6dYtz4HA&list=WL&index=1&t=0s), that was already mentioned ,was a great help. Definitely encourage you to check it out.
