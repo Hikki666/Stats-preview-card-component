@@ -26,9 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/screenshot-desktop.png)
+![](./images/screenshots/screenshot-desktop.png)
 
-![](./screenshots/screenshot-mobile.png)
+![](./images/screenshots/screenshot-mobile.png)
 
 ### Links
 
@@ -49,7 +49,6 @@ I tried to color the [stock_image](./images/image-header-desktop.jpg) with CSS, 
 
 - Semantic HTML5 markup (Just a little)
 - CSS custom properties
-- Flexbox
 - Mobile-first workflow
 
 ### What I learned
