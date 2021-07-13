@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/tools-used-none-just-html-and-css-eGu3PHM1Y)
-- Live Site URL: [Live site](https://sklady.netlify.app)
+- Live Site URL: [Live site](https://sklady.netlify.app/challengesfrontedmentor/stats-preview-card-component/index.html)
 
 ## My process
 
